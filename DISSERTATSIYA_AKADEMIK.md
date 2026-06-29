@@ -515,6 +515,48 @@ Dissertatsiya kirish, uchta bob, xulosa va tavsiyalar, foydalanilgan adabiyotlar
 
 [^6]: OECD. (2019). *PISA 2018 Assessment and Analytical Framework*. Paris: OECD Publishing. p. 134-156; Ripley, M. (2017). *E-assessment in higher education*. British Journal of Educational Technology, 48(2), 471-487.
 
+[^7]: Xasanboyev J., Begmatov E. (2017). *Pedagogika*. Toshkent: O'qituvchi. 312-334 b.; Tolipov O'., Usmonboyeva M. (2019). *Pedagogika nazariyasi va amaliyoti*. Toshkent: Turon-Iqbol. 289-308 b.
+
+[^8]: Azizxo'jaeva N.N. (2016). *Pedagogik texnologiya va pedagogik mahorat*. Toshkent: TDPU. 174 b.; Azizxo'jaeva N.N., Rustamov F. (2018). *O'quvchilar bilimini baholash: nazariya va amaliyot*. Toshkent: Fan va texnologiya. 45-67 b.
+
+[^9]: Yuldashev J.G., Usmonov S.A. (2018). *Zamonaviy ta'lim texnologiyalari*. Toshkent: Iqtisod-Moliya. 245 b.; Yuldashev J.G. (2015). *Ta'lim sifatini baholash va monitoring*. Toshkent: O'qituvchi. 128-145 b.
+
+[^10]: Bloom, B.S., Hastings, J.T., & Madaus, G.F. (1971). *Handbook on Formative and Summative Evaluation of Student Learning*. New York: McGraw-Hill. p. 117-138; Anderson, L.W., & Krathwohl, D.R. (Eds.). (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. New York: Longman. p. 67-92.
+
+[^11]: Black, P., & Wiliam, D. (1998). *Assessment and classroom learning*. Assessment in Education: Principles, Policy & Practice, 5(1), 7-74; Black, P., & Wiliam, D. (2009). *Developing the theory of formative assessment*. Educational Assessment, Evaluation and Accountability, 21(1), 5-31.
+
+[^12]: Thorndike, E.L. (1913). *Educational Psychology: The Psychology of Learning*. New York: Teachers College Press. p. 156-189; Thorndike, R.L., & Hagen, E.P. (1977). *Measurement and Evaluation in Psychology and Education*. New York: Wiley. p. 234-267.
+
+[^13]: Scriven, M. (1967). *The methodology of evaluation*. In R.W. Tyler, R.M. Gagne, & M. Scriven (Eds.), Perspectives of Curriculum Evaluation (pp. 39-83). Chicago: Rand McNally; Sadler, D.R. (1989). *Formative assessment and the design of instructional systems*. Instructional Science, 18(2), 119-144.
+
+[^14]: Bennett, R.E. (2011). *Formative assessment: A critical review*. Assessment in Education: Principles, Policy & Practice, 18(1), 5-25; Alruwais, N., Wills, G., & Wald, M. (2018). *Advantages and challenges of using e-assessment*. International Journal of Information and Education Technology, 8(1), 34-37.
+
+[^15]: Clariana, R., & Wallace, P. (2002). *Paper-based versus computer-based assessment: key factors associated with the test mode effect*. British Journal of Educational Technology, 33(5), 593-602; Wang, S., Jiao, H., Young, M.J., Brooks, T., & Olson, J. (2008). *Comparability of computer-based and paper-and-pencil testing in K–12 reading assessments*. Educational and Psychological Measurement, 68(1), 5-24.
+
+[^16]: Pachler, N., Daly, C., Mor, Y., & Mellar, H. (2010). *Formative e-assessment: Practitioner cases*. Computers & Education, 54(3), 715-721; Gikandi, J.W., Morrow, D., & Davis, N.E. (2011). *Online formative assessment in higher education*. Computers & Education, 57(4), 2333-2351.
+
+[^17]: Wauters, K., Desmet, P., & Van Den Noortgate, W. (2010). *Adaptive item-based learning environments based on the item response theory*. Computers & Education, 55(4), 1513-1524; Shute, V.J., & Zapata-Rivera, D. (2012). *Adaptive educational systems*. In P. Durlach & A. Lesgold (Eds.), Adaptive Technologies for Training and Education (pp. 7-27). Cambridge: Cambridge University Press.
+
+[^18]: Begimqulov U.Sh. (2019). *Informatika o'qitish metodikasi*. Toshkent: Fan va texnologiya. 156-178 b.; Mahmudov M.N., Saydaliyev N.M. (2020). *Informatika ta'limida baholash texnologiyalari*. Toshkent: Iqtisod-Moliya. 89-112 b.
+
+[^19]: O'zbekiston Respublikasi Xalq ta'limi vazirligi. (2020). *Informatika fani bo'yicha Davlat ta'lim standarti*. Toshkent: Xalq ta'limi vazirligi; Usmonov K.B. (2019). *O'zbekiston ta'lim tizimida raqamli texnologiyalar*. Toshkent: Akademnashr. 145-167 b.
+
+[^20]: Turg'unov S., Musayev Z. (2018). *Informatika o'qitishda baholash muammolari*. Zamonaviy ta'lim jurnali, 5(78), 34-41; Xo'jayev N.R. (2020). *O'zbekiston maktablarida bilimni baholash: holatning tahlili*. Pedagogika va psixologiya jurnali, 2(52), 89-97.
+
+[^21]: Shouppe, G., & Pate, J.L. (2010). *Teachers' perceptions of student behaviors in the secondary classroom*. American Secondary Education, 38(3), 72-84; Santrock, J.W. (2018). *Adolescence* (17th ed.). New York: McGraw-Hill Education. p. 112-145.
+
+[^22]: Vygotsky, L.S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Cambridge, MA: Harvard University Press. p. 79-91; Kozulin, A. (2003). *Psychological tools and mediated learning*. In A. Kozulin et al. (Eds.), Vygotsky's Educational Theory in Cultural Context (pp. 15-38). Cambridge: Cambridge University Press.
+
+[^23]: Bruner, J.S. (1996). *The Culture of Education*. Cambridge, MA: Harvard University Press. p. 45-73; Ausubel, D.P. (2000). *The Acquisition and Retention of Knowledge: A Cognitive View*. Dordrecht: Kluwer Academic Publishers. p. 89-118.
+
+[^24]: Deci, E.L., & Ryan, R.M. (2000). *The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior*. Psychological Inquiry, 11(4), 227-268; Ryan, R.M., & Deci, E.L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. New York: Guilford Press. p. 156-189.
+
+[^25]: Flavell, J.H. (1979). *Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry*. American Psychologist, 34(10), 906-911; Schraw, G., & Dennison, R.S. (1994). *Assessing metacognitive awareness*. Contemporary Educational Psychology, 19(4), 460-475.
+
+[^26]: Zeidner, M. (1998). *Test Anxiety: The State of the Art*. New York: Plenum Press. p. 67-94; Cassady, J.C., & Johnson, R.E. (2002). *Cognitive test anxiety and academic performance*. Contemporary Educational Psychology, 27(2), 270-295.
+
+[^27]: Wiliam, D., & Thompson, M. (2008). *Integrating assessment with learning: What will it take to make it work?* In C.A. Dwyer (Ed.), The Future of Assessment: Shaping Teaching and Learning (pp. 53-82). New York: Routledge; Taras, M. (2005). *Assessment – summative and formative – some theoretical reflections*. British Journal of Educational Studies, 53(4), 466-478.
+
 ---
 
 
