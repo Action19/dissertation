@@ -557,6 +557,72 @@ Dissertatsiya kirish, uchta bob, xulosa va tavsiyalar, foydalanilgan adabiyotlar
 
 [^27]: Wiliam, D., & Thompson, M. (2008). *Integrating assessment with learning: What will it take to make it work?* In C.A. Dwyer (Ed.), The Future of Assessment: Shaping Teaching and Learning (pp. 53-82). New York: Routledge; Taras, M. (2005). *Assessment – summative and formative – some theoretical reflections*. British Journal of Educational Studies, 53(4), 466-478.
 
+[^28]: Hattie, J., & Timperley, H. (2007). *The power of feedback*. Review of Educational Research, 77(1), 81-112; Shute, V.J. (2008). *Focus on formative feedback*. Review of Educational Research, 78(1), 153-189.
+
+[^29]: Nicol, D.J., & Macfarlane-Dick, D. (2006). *Formative assessment and self-regulated learning: A model and seven principles of good feedback practice*. Studies in Higher Education, 31(2), 199-218; Hattie, J. (2012). *Visible Learning for Teachers*. London: Routledge. p. 115-138.
+
+[^30]: Dweck, C.S. (2006). *Mindset: The New Psychology of Success*. New York: Random House. p. 67-89; Blackwell, L.S., Trzesniewski, K.H., & Dweck, C.S. (2007). *Implicit theories of intelligence predict achievement across an adolescent transition*. Child Development, 78(1), 246-263.
+
+[^31]: Zimmerman, B.J. (2002). *Becoming a self-regulated learner: An overview*. Theory Into Practice, 41(2), 64-70; Pintrich, P.R. (2004). *A conceptual framework for assessing motivation and self-regulated learning in college students*. Educational Psychology Review, 16(4), 385-407.
+
+[^32]: Panadero, E., & Alonso-Tapia, J. (2013). *Self-assessment: Theoretical and practical connotations*. International Journal of Psychology and Psychological Therapy, 13(2), 101-115; Brown, G.T., & Harris, L.R. (2013). *Student self-assessment*. In J.H. McMillan (Ed.), SAGE Handbook of Research on Classroom Assessment (pp. 367-393). Thousand Oaks: SAGE.
+
+[^33]: Brookhart, S.M. (2008). *How to Give Effective Feedback to Your Students*. Alexandria, VA: ASCD. p. 45-78; Hattie, J., & Clarke, S. (2019). *Visible Learning: Feedback*. London: Routledge. p. 89-112.
+
+[^34]: Jonsson, A., & Svingby, G. (2007). *The use of scoring rubrics: Reliability, validity and educational consequences*. Educational Research Review, 2(2), 130-144; Panadero, E., & Jonsson, A. (2013). *The use of scoring rubrics for formative assessment purposes revisited*. Educational Research Review, 9, 129-144.
+
+[^35]: Sadler, D.R. (1989). *Formative assessment and the design of instructional systems*. Instructional Science, 18(2), 119-144; Sadler, D.R. (2010). *Beyond feedback: Developing student capability in complex appraisal*. Assessment & Evaluation in Higher Education, 35(5), 535-550.
+
+[^36]: Gibbs, G., & Simpson, C. (2004). *Conditions under which assessment supports students' learning*. Learning and Teaching in Higher Education, 1(1), 3-31; Boud, D., & Molloy, E. (2013). *Feedback in Higher and Professional Education*. London: Routledge. p. 67-94.
+
+[^37]: Xo'jayev N., Qo'chqorov U. (2017). *Informatika fanini o'qitishning zamonaviy metodlari*. Toshkent: O'qituvchi. 134-156 b.; Rashidov H.F. (2019). *Raqamli texnologiyalar va ta'lim*. Toshkent: Fan. 178-201 b.
+
+[^38]: Alonso-Tapia, J., & Panadero, E. (2010). *Effects of self-assessment scripts on self-regulation and learning*. Infancia y Aprendizaje, 33(3), 385-397; Andrade, H.L. (2010). *Students as the definitive source of formative assessment*. In H.L. Andrade & G.J. Cizek (Eds.), Handbook of Formative Assessment (pp. 90-105). New York: Routledge.
+
+[^39]: Stobart, G. (2008). *Testing Times: The Uses and Abuses of Assessment*. London: Routledge. p. 112-145; Newton, P.E. (2007). *Clarifying the purposes of educational assessment*. Assessment in Education: Principles, Policy & Practice, 14(2), 149-170.
+
+[^40]: Popham, W.J. (2008). *Transformative Assessment*. Alexandria, VA: ASCD. p. 56-89; Heritage, M. (2010). *Formative Assessment: Making It Happen in the Classroom*. Thousand Oaks: Corwin Press. p. 134-167.
+
+[^41]: Shepard, L.A. (2000). *The role of assessment in a learning culture*. Educational Researcher, 29(7), 4-14; Stiggins, R.J. (2002). *Assessment crisis: The absence of assessment FOR learning*. Phi Delta Kappan, 83(10), 758-765.
+
+[^42]: Pellegrino, J.W., Chudowsky, N., & Glaser, R. (Eds.). (2001). *Knowing What Students Know: The Science and Design of Educational Assessment*. Washington, DC: National Academy Press. p. 178-234; Mislevy, R.J., Steinberg, L.S., & Almond, R.G. (2003). *On the structure of educational assessments*. Measurement: Interdisciplinary Research and Perspectives, 1(1), 3-62.
+
+[^43]: Wiggins, G., & McTighe, J. (2005). *Understanding by Design* (2nd ed.). Alexandria, VA: ASCD. p. 145-189; Biggs, J., & Tang, C. (2011). *Teaching for Quality Learning at University* (4th ed.). Maidenhead: Open University Press. p. 201-234.
+
+[^44]: Earl, L.M. (2013). *Assessment as Learning: Using Classroom Assessment to Maximize Student Learning* (2nd ed.). Thousand Oaks: Corwin Press. p. 67-98; Wiliam, D. (2011). *Embedded Formative Assessment*. Bloomington, IN: Solution Tree Press. p. 112-145.
+
+[^45]: Boyle, J.R., & Weishaar, M. (1997). *The effects of expert-generated versus student-generated cognitive organizers on the reading comprehension of students with learning disabilities*. Learning Disabilities Research & Practice, 12(4), 228-235; Carrell, P.L., Pharis, B.G., & Liberto, J.C. (1989). *Metacognitive strategy training for ESL reading*. TESOL Quarterly, 23(4), 647-678.
+
+[^46]: Begimqulov U.Sh., Xolmo'minov Sh. (2018). *Informatika o'qitishda zamonaviy yondashuvlar*. Toshkent: Yangi asr avlodi. 89-134 b.; Mirzayev T.N. (2020). *Raqamli ta'lim muhiti*. Toshkent: Ma'naviyat. 145-178 b.
+
+[^47]: Prensky, M. (2001). *Digital natives, digital immigrants*. On the Horizon, 9(5), 1-6; Bennett, S., Maton, K., & Kervin, L. (2008). *The 'digital natives' debate: A critical review of the evidence*. British Journal of Educational Technology, 39(5), 775-786.
+
+[^48]: Selwyn, N. (2009). *The digital native – myth and reality*. Aslib Proceedings, 61(4), 364-379; Helsper, E.J., & Eynon, R. (2010). *Digital natives: Where is the evidence?* British Educational Research Journal, 36(3), 503-520.
+
+[^49]: Judd, T., & Kennedy, G. (2011). *Measurement and evidence of computer-based task switching and multitasking by 'Net Generation' students*. Computers & Education, 56(3), 625-631; Thompson, P. (2013). *The digital natives as learners*. International Journal of Educational Technology in Higher Education, 10(1), 1-15.
+
+[^50]: Karpov, A.O. (2017). *Formation of research competence: Problem of pedagogical university*. European Journal of Contemporary Education, 6(1), 82-94; Kennedy, G.E., Judd, T.S., Churchward, A., Gray, K., & Krause, K.L. (2008). *First year students' experiences with technology*. Australasian Journal of Educational Technology, 24(1), 108-122.
+
+[^51]: Ng, W. (2012). *Can we teach digital natives digital literacy?* Computers & Education, 59(3), 1065-1078; Eshet-Alkalai, Y. (2004). *Digital literacy: A conceptual framework for survival skills in the digital era*. Journal of Educational Multimedia and Hypermedia, 13(1), 93-106.
+
+[^52]: Martin, A. (2008). *Digital literacy and the 'digital society'*. In C. Lankshear & M. Knobel (Eds.), Digital Literacies: Concepts, Policies and Practices (pp. 151-176). New York: Peter Lang; Gilster, P. (1997). *Digital Literacy*. New York: Wiley. p. 45-89.
+
+[^53]: O'zbekiston Respublikasi Vazirlar Mahkamasi. (2019). *"Raqamli O'zbekiston – 2030" strategiyasi*. Toshkent: O'zbekiston Respublikasi Vazirlar Mahkamasi; O'zbekiston Respublikasi Prezidenti. (2020). *"Raqamli iqtisodiyot va elektron hukumatni rivojlantirish konsepsiyasi"*. Toshkent: Prezident Farmoni.
+
+[^54]: Rashidov R.R., Xaydarov F.F. (2019). *Axborot texnologiyalari va ta'lim tizimi*. Zamonaviy pedagogika jurnali, 4(89), 23-31; Qosimov B.S. (2020). *Raqamli ta'lim: nazariya va amaliyot*. Ta'lim taraqqiyoti jurnali, 1(12), 45-56.
+
+[^55]: Ferster, B. (2014). *Teaching Machines: Learning from the Intersection of Education and Technology*. Baltimore: Johns Hopkins University Press. p. 89-134; Cuban, L. (2001). *Oversold and Underused: Computers in the Classroom*. Cambridge, MA: Harvard University Press. p. 145-178.
+
+[^56]: Becker, H.J. (2000). *Findings from the Teaching, Learning, and Computing Survey*. Education Policy Analysis Archives, 8(51), 1-31; Russell, M., Bebell, D., O'Dwyer, L., & O'Connor, K. (2003). *Examining teacher technology use*. Journal of Research on Technology in Education, 35(4), 455-472.
+
+[^57]: Ertmer, P.A., & Ottenbreit-Leftwich, A.T. (2010). *Teacher technology change: How knowledge, confidence, beliefs, and culture intersect*. Journal of Research on Technology in Education, 42(3), 255-284; Mishra, P., & Koehler, M.J. (2006). *Technological pedagogical content knowledge: A framework for teacher knowledge*. Teachers College Record, 108(6), 1017-1054.
+
+[^58]: Tondeur, J., Van Braak, J., Sang, G., Voogt, J., Fisser, P., & Ottenbreit-Leftwich, A. (2012). *Preparing pre-service teachers to integrate technology in education*. Computers & Education, 59(1), 134-144; Koehler, M.J., Mishra, P., & Cain, W. (2013). *What is technological pedagogical content knowledge (TPACK)?* Journal of Education, 193(3), 13-19.
+
+[^59]: Sang, G., Valcke, M., Van Braak, J., & Tondeur, J. (2010). *Student teachers' thinking processes and ICT integration*. Computers & Education, 54(1), 103-112; Angeli, C., & Valanides, N. (2009). *Epistemological and methodological issues for the conceptualization, development, and assessment of ICT–TPCK*. Computers & Education, 52(1), 154-168.
+
+[^60]: Parvin, R.H., & Salam, S.F. (2015). *The effectiveness of using technology in English language classrooms in government primary schools in Bangladesh*. FIRE: Forum for International Research in Education, 2(1), 47-59; Kay, R.H. (2006). *Evaluating strategies used to incorporate technology into preservice education*. Journal of Research on Technology in Education, 38(4), 383-408.
+
 ---
 
 
